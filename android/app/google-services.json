@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243172459419",
+    "project_id": "autenticacao-email-tdm",
+    "storage_bucket": "autenticacao-email-tdm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243172459419:android:4d7726d31b2e2dd00f973e",
+        "android_client_info": {
+          "package_name": "br.com.ifsul.autenticacao_email_tdm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBMeZ3lUx_81UR9O7STY-cJ_6_q-NOPtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
